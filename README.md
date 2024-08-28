@@ -9,7 +9,7 @@
 
 
 ## More information:
-- v9.7 for 1.68
+- v9.7 for 1.69
 - Doesn't use any natives whatsoever.
 
 ## Tested compatability:
